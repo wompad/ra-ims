@@ -1,0 +1,28 @@
+[
+    {
+        "name": "webd/language",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/tdebatty/php-language-processing.git",
+            "reference": "9b5d83f564ca3d8e0c5fe928fc75e5187d15348a"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/tdebatty/php-language-processing/zipball/9b5d83f564ca3d8e0c5fe928fc75e5187d15348a",
+            "reference": "9b5d83f564ca3d8e0c5fe928fc75e5187d15348a",
+            "shasum": ""
+        },
+        "time": "2017-09-06T07:04:53+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-0": {
+                "": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "description": "A library for language processing. Includes string distance function (Levenshtein, Jaro-Winkler,...), stemming, etc."
+    }
+]

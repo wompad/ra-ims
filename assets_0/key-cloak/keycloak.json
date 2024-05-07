@@ -1,0 +1,8 @@
+{
+	"realm" : "entdswd.local", 
+	"auth-server-url" : "https://caraga-auth.dswd.gov.ph:8443/auth", 
+    "ssl-required" : "external",
+    "resource" : "crg-drrmd-svr-apps", 
+    "public-client" : true,
+    "confidential-port" : 0
+}
